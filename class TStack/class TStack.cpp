@@ -2,10 +2,16 @@
 //
 
 #include <iostream>
+#include "TStack.h"
+#include <string>
 
+bool check() {
+
+
+}
 int main()
 {
-    std::cout << "Hello World!\n";
+	return 0;
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
